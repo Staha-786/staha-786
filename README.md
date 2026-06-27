@@ -47,8 +47,9 @@ Motivated Software Engineering student with hands-on experience in Full Stack We
 ---
 
 <!-- Badges for Profile Views, Followers, and Repositories -->
+<!-- Badges for Profile Views, Followers, and Repositories -->
 <p align="center">
-  <img src="https://komarev.com/badge/v1/pvt/?label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/staha-786?label=Followers&style=flat-square&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/repos/count/staha-786?label=Repositories&style=flat-square&color=greeen" alt="Repositories" />
+  <img src="https://komarev.com/badge/v1/pvt/?label=Profile%20Views&color=61DAFB&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/staha-786?label=Followers&style=flat-square&color=61DAFB" alt="Followers" />
+  <img src="https://img.shields.io/github/repos/count/staha-786?label=Repositories&style=flat-square&color=61DAFB" alt="Repositories" />
 </p>

@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, My name is Taha
+### I am Full Stack Developer & AI Developer
 
-<!--
-**Staha-786/staha-786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Motivated Software Engineering student with hands-on experience in Full Stack Web Development. Skilled in building enterprise-level applications, layered backend architectures, and smart AI integrations. Seeking opportunities to contribute to real-world products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- 🔭 **Currently working on:** Full-Stack Web Applications using React, Next.js, and FastAPI[cite: 1].
+- 👯 **Looking to collaborate on:** Open-source Full-Stack projects and SaaS apps[cite: 1].
+- 🌱 **Currently learning:** Advanced LLM integration, OpenRouter APIs, and Next.js server actions[cite: 1].
+- 💬 **Ask me about:** React/TypeScript frontend, Layered Backend Architecture, JWT Auth, and Streamlit AI tools[cite: 1].
+- ⚡ **Fun fact:** I write code that handles both complex database relations and smart AI chatbots smoothly![cite: 1]
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,powershell,ts,aws,azure,firebase,netlify,vercel,bootstrap,fastapi,nextjs,nodejs,react,sass,tailwind,wordpress,vite,mongodb,mysql,postgres,supabase,ai,ps,canva,numpy,pandas,pytorch,tensorflow,git,github,docker,postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=staha-786&show_icons=true&theme=dark&hide_border=true&icon_color=61DAFB&ring_color=61DAFB" alt="Taha's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staha-786&layout=compact&theme=dark&hide_border=true&icon_color=61DAFB&ring_color=61DAFB" alt="Top Languages" height="180" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=staha-786&theme=dark&hide_border=true&ring=61DAFB&fire=61DAFB" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔗 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/syed-taha456" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:syedtahah28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<!-- Badges for Profile Views, Followers, and Repositories -->
+<p align="center">
+  <img src="https://komarev.com/badge/v1/pvt/?label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/staha-786?label=Followers&style=flat-square&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/repos/count/staha-786?label=Repositories&style=flat-square&color=greeen" alt="Repositories" />
+</p>

@@ -6,11 +6,11 @@ Motivated Software Engineering student with hands-on experience in Full Stack We
 ---
 
 ### 💻 About Me
-- 🔭 **Currently working on:** Full-Stack Web Applications using React, Next.js, and FastAPI[cite: 1].
-- 👯 **Looking to collaborate on:** Open-source Full-Stack projects and SaaS apps[cite: 1].
-- 🌱 **Currently learning:** Advanced LLM integration, OpenRouter APIs, and Next.js server actions[cite: 1].
-- 💬 **Ask me about:** React/TypeScript frontend, Layered Backend Architecture, JWT Auth, and Streamlit AI tools[cite: 1].
-- ⚡ **Fun fact:** I write code that handles both complex database relations and smart AI chatbots smoothly![cite: 1]
+- 🔭 **Currently working on:** Full-Stack Web Applications using React, Next.js, and FastAPI.
+- 👯 **Looking to collaborate on:** Open-source Full-Stack projects and SaaS apps.
+- 🌱 **Currently learning:** Advanced LLM integration, OpenRouter APIs, and Next.js server actions.
+- 💬 **Ask me about:** React/TypeScript frontend, Layered Backend Architecture, JWT Auth, and Streamlit AI tools.
+- ⚡ **Fun fact:** I write code that handles both complex database relations and smart AI chatbots smoothly.
 
 ---
 

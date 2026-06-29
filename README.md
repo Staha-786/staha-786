@@ -17,7 +17,7 @@ Motivated Software Engineering student with hands-on experience in Full Stack We
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,powershell,ts,aws,azure,firebase,netlify,vercel,bootstrap,fastapi,nextjs,nodejs,react,sass,tailwind,wordpress,vite,mongodb,mysql,postgres,supabase,ai,ps,pandas,pytorch,tensorflow,git,github,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,powershell,ts,aws,azure,firebase,netlify,vercel,bootstrap,fastapi,nextjs,nodejs,react,sass,tailwind,wordpress,vite,mongodb,mysql,postgres,supabase,ai,ps,pytorch,tensorflow,git,github,docker,postman" />
 </p>
 
 ---
